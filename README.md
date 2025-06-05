@@ -26,8 +26,7 @@ A proof-of-concept voice assistant using Twilio, ElevenLabs, FastAPI, and Postgr
    ```bash
    uvicorn app.main:app --reload
    ```
-
-7. ** Run Tests**:
+7. **Run Tests**:
    ```bash
    pytest
    ```
